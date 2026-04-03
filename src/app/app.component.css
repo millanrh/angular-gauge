@@ -1,0 +1,7 @@
+::ng-deep .reading-block {
+  transition: color 0.5s ease-in-out;
+}
+
+::ng-deep .gauge-chart-path {
+  transition: stroke 0.5s ease-in-out;
+}
